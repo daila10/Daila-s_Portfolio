@@ -3,7 +3,7 @@
 This repository contains a collection of my projects, each showcasing a different aspect of my skills and expertise.
 
 Contact Information:
-- Email: dailaalexandre1@gmail.com
+- Email: dailaalexandre1@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/daila-alexandre/
 
 ## Projects

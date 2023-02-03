@@ -7,12 +7,13 @@ Contact Information:
 - LinkedIn: https://www.linkedin.com/in/daila-alexandre/
 ## Projects
 
-<p float="left">
+<!--  <p float="left"> -->
   <!--  <img src="https://github.com/daila10/Daila-s_Portfolio/blob/main/Images/CS_DM_Project.png" width="100" />  -->
   <h3><a href="project_repository_url">Customer Segmentation</a></h3>
   <p float="right">This was an academic project made with two other colleagues whose credit is at the end of the description. Using clustering techniques to segment the market, we aimed to identify customer groups based on geographic, demographic, psychographic, and behavioral characteristics. This allowed us to make strategic choices for better serving existing customers and improving the targeting of prospective customers. In this project we achieved a grade of 19 out of 20. <br />
   <li> Alex Santander: https://www.linkedin.com/in/alex-santander-535aa477/
-  <li> Diogo Silva: 
+  <li> Diogo Silva: </p>
+ <!--  </p> -->
 
 ## Core Competencies
 - **Methodologies**: Data Mining, Machine Learning

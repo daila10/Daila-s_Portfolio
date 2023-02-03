@@ -24,4 +24,4 @@ Feel free to reach out if you have any questions or would like to discuss a proj
 
 Contact Information:
 - Email: dailaalexandre1@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/daila-alexandre/)
+- LinkedIn: https://www.linkedin.com/in/daila-alexandre/

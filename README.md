@@ -10,7 +10,8 @@ Contact Information:
 ### [Customer Segmentation] (project_repository_url)
 This was an academic project made with two other colleagues whose credit is at the end of the description. Using clustering techniques to segment the market, we aimed to identify customer groups based on geographic, demographic, psychographic, and behavioral characteristics. This allowed us to make strategic choices for better serving existing customers and improving the targeting of prospective customers. In this project we achieved a grade of 19 out of 20. <br />
 - Alex Santander: https://www.linkedin.com/in/alex-santander-535aa477/
-- Diogo Silva:
+- Diogo Silva: https://www.linkedin.com/in/alex-santander-535aa477/
+
 
 ## Core Competencies
 - **Methodologies**: Data Mining, Machine Learning

@@ -3,8 +3,8 @@
 This repository contains a collection of my projects, each showcasing a different aspect of my skills and expertise.
 
 Contact Information:
-- [Email:] dailaalexandre1@gmail.com
-- [LinkedIn:] https://www.linkedin.com/in/daila-alexandre/
+- Email: dailaalexandre1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/daila-alexandre/
 ## Projects
 
 ### [Customer Segmentation]
@@ -20,8 +20,5 @@ Contact Information:
 - **Methodologies**: Data Mining, Machine Learning
 - **Languages**:  Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, Seaborn), R, SQL
 -  **Tools**: PowerBI, MySQL, Bizagi
-
-## Education
-- [Degree, major, and university]
 
 Feel free to reach out if you have any questions or would like to discuss a project in more detail. I look forward to connecting!

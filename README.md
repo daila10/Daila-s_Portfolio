@@ -1,6 +1,6 @@
 # Daila's Portfolio
 
-This repository contains a collection of my projects, each showcasing a different aspect of my skills and expertise.
+This repository contains a collection of my projects, each showcasing a different aspect of my skills and expertise. [still under development]
 
 Contact Information:
 - Email: dailaalexandre1@gmail.com 

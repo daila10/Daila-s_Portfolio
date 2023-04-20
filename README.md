@@ -13,7 +13,7 @@ This was an academic project made with two other colleagues whose credit is at t
 - Alex Santander: https://www.linkedin.com/in/alex-santander-535aa477/
 - Diogo Silva: https://www.linkedin.com/in/diogo-goulart-silva/
 
-### [Particle Swarm Optimisation & Genetic Algorithm](https://github.com/daila10/Projects/tree/University/Computational%20Methods%20for%20Optimisation)
+### [Particle Swarm Optimiation & Genetic Algorithm](https://github.com/daila10/Projects/tree/University/Computational%20Methods%20for%20Optimisation)
 Also in the academic scope, in this project I programmed from scratch Particle Swarm Algorithm and I manipulated a provided Genetic Algorithm code to include geometric operators and elitism. The grade obtained was 19.50 out of 20.
 
 

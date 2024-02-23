@@ -14,7 +14,7 @@ This project aimed to solve the Stigler's Diet Problem with implementation of a 
 ### [Customer Segmentation](https://github.com/daila10/Projects/tree/University/Data%20Mining%20Project)
 Using clustering techniques to segment the market, this project aimed to identify customer groups based on geographic, demographic, psychographic, and behavioral characteristics. This allowed to make strategic choices for better serving existing customers and improving the targeting of prospective customers. This project achieved a grade of 19 out of 20. <br />
 
-### [Machine Learning][https://github.com/daila10/MLOps_project](https://github.com/daila10/Projects/tree/University/Machine%20Learning%20Project)
+### [Machine Learning](https://github.com/daila10/Projects/tree/University/Machine%20Learning%20Project)
 The purpose of this project is to solve “The Smith Parasite” Kaggle case using Machine Learning knowledge. This case regards a new disease that already spread to over 5000 people and the investigator group aims to determine who is more prone to catch the disease, so that people are more aware of the disease’s symptoms and consequences. This project achieved a grade of 18.5 out of 20. <br />
 
 ### [Particle Swarm Optimiation & Genetic Algorithm](https://github.com/daila10/Projects/tree/University/Computational%20Methods%20for%20Optimisation)

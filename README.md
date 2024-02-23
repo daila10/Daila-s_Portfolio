@@ -17,7 +17,7 @@ Using clustering techniques to segment the market, this project aimed to identif
 ### [Machine Learning](https://github.com/daila10/Projects/tree/University/Machine%20Learning%20Project)
 The purpose of this project is to solve “The Smith Parasite” Kaggle case using Machine Learning knowledge. This case regards a new disease that already spread to over 5000 people and the investigator group aims to determine who is more prone to catch the disease, so that people are more aware of the disease’s symptoms and consequences. This project achieved a grade of 18.5 out of 20. <br />
 
-### [Particle Swarm Optimiation & Genetic Algorithm](https://github.com/daila10/Projects/tree/University/Computational%20Methods%20for%20Optimisation)
+### [Particle Swarm Optimization & Genetic Algorithm](https://github.com/daila10/Projects/tree/University/Computational%20Methods%20for%20Optimisation)
 In this project, I programmed from scratch Particle Swarm Algorithm and I manipulated a provided Genetic Algorithm code to include geometric operators and elitism. The grade obtained was 19.5 out of 20. <br />
 
 ### [Machine Learning Operations](https://github.com/daila10/MLOps_project)

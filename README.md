@@ -10,7 +10,7 @@ Contact Information:
 
 ### [Master Thesis - Fraud Detection Systems Empowered by Context-Awareness](https://github.com/daila10/Projects/tree/University/Fraud%20Detection%20Systems%20Empowered%20by%20Context-Awareness)
 Unsing real-world data, this project proposes the optimization of a fraud detection system by making it dynamic with the use of machine learning and reinforcement learning techniques. <br />
-- Programming language: python <br />
+- Programming language: Python <br />
 - Final grade: 20/20 <br />
 
 ### [Computational Intelligence for Optimization](https://github.com/daila10/CIFO_Group21/tree/main)
